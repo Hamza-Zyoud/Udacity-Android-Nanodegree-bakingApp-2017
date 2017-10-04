@@ -26,4 +26,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ## Libraries
-* [GitHub]https://github.com/square/retrofit
+* [retrofit](https://github.com/square/retrofit)
+* [ExoPlayer](https://github.com/google/ExoPlayer)
+* [Picasso](http://square.github.io/picasso/)
+* [Espresso](https://developer.android.com/training/testing/espresso/index.html)
+## Screens
+
