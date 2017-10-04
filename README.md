@@ -32,3 +32,11 @@ limitations under the License.
 * [Espresso](https://developer.android.com/training/testing/espresso/index.html)
 ## Screens
 
+* Recipe Main  Screen
+![Image of RecipeMain](https://github.com/Hamza-Zyoud/Udacity-Android-Nanodegree-bakingApp-2017/blob/master/screens/RecipeMain.png)
+* Recipe Detail Screen
+![Image of RecipeMain](https://github.com/Hamza-Zyoud/Udacity-Android-Nanodegree-bakingApp-2017/blob/master/screens/RecipeDetail.png)
+ * Recipe Main Screen Tablet
+ ![Image of RecipeMain](https://github.com/Hamza-Zyoud/Udacity-Android-Nanodegree-bakingApp-2017/blob/master/screens/RecipeDetailTablet.png)
+
+
